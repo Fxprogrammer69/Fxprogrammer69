@@ -1,4 +1,4 @@
-# 👋 Hola Amigo!  
+# 👋I extend my warm Greetings to you, Welcomeing you to my Profile Folks....!  
 I’m **Farhaan** — but you might know me here as `@Fxprogrammer69`.
 ---
 ### 👀 What keeps me up at night?
