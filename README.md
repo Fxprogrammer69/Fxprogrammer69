@@ -5,8 +5,8 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · fxprogrammer69</sub></p>
 <h1>Farhaan</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>A Software Developer in the making | Focused on Full-Stack Development &amp; DSA | Enthusiast of AI &amp; Machine Learning | 
+<h2>AI Engineer</h2>
+<p>A Architect in the making | Focused on Generative AI, Transformer Architecture, LangChain, MachineLearning &amp; DSA | Enthusiast of AI &amp; Machine Learning | 
 A Code Alchemist...</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in India</sub></p>
@@ -32,7 +32,7 @@ A Code Alchemist...</p>
 </tr>
 </table>
 
-<p><sub>A Software Developer in the making | Focused on Full-Stack Development &amp; DSA | Enthusiast of AI &amp; Machine Learning | 
+<p><sub>An AI Engineer in the making | Focused on Gen-AI LangChain, Transformer Architecture &amp; DSA | Enthusiast of AI &amp; Machine Learning | 
 A Code Alchemist...</sub></p>
 
 <h2>Proof at a glance</h2>
